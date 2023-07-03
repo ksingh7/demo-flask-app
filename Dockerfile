@@ -1,5 +1,5 @@
 #Base Image
-FROM python:3.8
+FROM docker.io/python:3.8
 
 #Creating a dir in Container
 RUN mkdir /app
