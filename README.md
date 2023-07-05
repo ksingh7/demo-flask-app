@@ -5,3 +5,4 @@ test-3 private webhook
 test-4 post removing the suffix from domain
 test-5 after changing rbac
 test-6 after addin interceptors in rbac
+test-7 changes by keyur triggertemplate
